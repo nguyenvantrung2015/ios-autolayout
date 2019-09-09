@@ -26,6 +26,7 @@
 		050639E02326594700FDF541 /* Montserrat-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 050639CF2326594700FDF541 /* Montserrat-LightItalic.ttf */; };
 		050639E12326594700FDF541 /* Montserrat-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 050639D02326594700FDF541 /* Montserrat-Thin.ttf */; };
 		05077035232682CE000EE7FA /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05077034232682CE000EE7FA /* LoginViewController.swift */; };
+		0507703723268B0C000EE7FA /* SignUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0507703623268B0C000EE7FA /* SignUpViewController.swift */; };
 		053E238923263812000F2BB6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 053E238823263812000F2BB6 /* AppDelegate.swift */; };
 		053E238B23263812000F2BB6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 053E238A23263812000F2BB6 /* ViewController.swift */; };
 		053E238E23263812000F2BB6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 053E238C23263812000F2BB6 /* Main.storyboard */; };
@@ -54,6 +55,7 @@
 		050639CF2326594700FDF541 /* Montserrat-LightItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-LightItalic.ttf"; sourceTree = "<group>"; };
 		050639D02326594700FDF541 /* Montserrat-Thin.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-Thin.ttf"; sourceTree = "<group>"; };
 		05077034232682CE000EE7FA /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		0507703623268B0C000EE7FA /* SignUpViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpViewController.swift; sourceTree = "<group>"; };
 		053E238523263812000F2BB6 /* ximarina.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ximarina.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		053E238823263812000F2BB6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		053E238A23263812000F2BB6 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -104,6 +106,7 @@
 			isa = PBXGroup;
 			children = (
 				05077034232682CE000EE7FA /* LoginViewController.swift */,
+				0507703623268B0C000EE7FA /* SignUpViewController.swift */,
 			);
 			path = view;
 			sourceTree = "<group>";
@@ -230,6 +233,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				05077035232682CE000EE7FA /* LoginViewController.swift in Sources */,
+				0507703723268B0C000EE7FA /* SignUpViewController.swift in Sources */,
 				053E238B23263812000F2BB6 /* ViewController.swift in Sources */,
 				053E239123263812000F2BB6 /* ximarina.xcdatamodeld in Sources */,
 				053E238923263812000F2BB6 /* AppDelegate.swift in Sources */,
